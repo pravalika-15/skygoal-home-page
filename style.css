@@ -181,6 +181,10 @@ p.card-text {
     #third {
         padding-left: 15rem;
     }
+    #second .content {
+        padding-left: 3rem;
+        padding-right: 3rem;
+    }
 }
 
 @media (max-width:667px) {
